@@ -48,3 +48,6 @@ To improve and expand the functionality of the Automated Reminder System, consid
 - [Python](https://www.python.org/) - The programming language used for this project.
 - [Schedule](https://schedule.readthedocs.io/en/stable/) - Library for scheduling tasks.
 - [Plyer](https://plyer.readthedocs.io/en/latest/) - Library for cross-platform notifications.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Automated-Reminder-System/blob/main/LICENSE) file for details.
